@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jsconcepts/static/css/main.269efeb7.css",
+    "main.js": "/jsconcepts/static/js/main.b76baad1.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/jsconcepts/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/hero_image.png": "/jsconcepts/static/media/hero_image.09ff1c4114792a6143c2.png",
+    "static/media/hand_icon.png": "/jsconcepts/static/media/hand_icon.9c7487cecb600f30901b.png",
+    "index.html": "/jsconcepts/index.html",
+    "main.269efeb7.css.map": "/jsconcepts/static/css/main.269efeb7.css.map",
+    "main.b76baad1.js.map": "/jsconcepts/static/js/main.b76baad1.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/jsconcepts/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.269efeb7.css",
+    "static/js/main.b76baad1.js"
+  ]
+}
